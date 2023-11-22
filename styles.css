@@ -21,6 +21,9 @@ body {
 .sidebar a {
     color: rgb(158, 23, 23);
 }
+.sidebar a1 {
+    color: rgb(8, 137, 236);
+}
 
 .content {
     flex: 3;
